@@ -3,7 +3,7 @@ import Form from "./pages/Form";
 function App() {
 
   return (
-    <div className="">
+    <div className="overflow-hidden">
       <Form/>
     </div>
   )
